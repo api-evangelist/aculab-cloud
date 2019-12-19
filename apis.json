@@ -1,0 +1,74 @@
+{
+    "name": "Aculab Cloud",
+    "description": "Aculab offers a comprehensive range of telephony platforms - cloud-based, software-based, hardware-based - and a wide range of gateways.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/305-aculab-cloud.jpg",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "conferencing",
+        "fax",
+        "faxes",
+        "have api",
+        "no api definition",
+        "telecommunications"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aculab-cloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aculab Cloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/305-aculab-cloud.jpg",
+            "humanURL": "https:\/\/www.aculab.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aculab-cloud-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/cloudblog.aculab.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/zomato"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/aculab-cloud"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aculab"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.aculab.com\/cloud"
+        },
+        {
+            "type": "Email",
+            "url": "support@aculab.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Aculabcloud"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aculab"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.aculab.com\/"
+        }
+    ]
+}
